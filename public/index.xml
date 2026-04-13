@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel Kearns</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Samuel Kearns</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/resume/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/resume/</guid>
+      <description>&lt;h2 id=&#34;samuel-kearns&#34; class=&#34;relative group&#34;&gt;&lt;strong&gt;Samuel Kearns&lt;/strong&gt; &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#samuel-kearns&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;mailto:samuel.kearns@northwestern.edu&#34;&gt;samuel.kearns@northwestern.edu&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt; &lt;/p&gt;&#xA;&lt;h2 id=&#34;summary&#34; class=&#34;relative group&#34;&gt;&lt;strong&gt;Summary&lt;/strong&gt; &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#summary&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Skilled Developer versed in distilling and analyzing large data sets. Develops and delivers figures detailing data findings. Articulate and collaborative with expertise in pipeline design and data cleaning and processing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;skills&#34; class=&#34;relative group&#34;&gt;&lt;strong&gt;Skills&lt;/strong&gt; &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#skills&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;ul&gt;&#xA;&lt;li&gt;Python Programming&lt;/li&gt;&#xA;&lt;li&gt;Bash Programming&lt;/li&gt;&#xA;&lt;li&gt;HPC programming&lt;/li&gt;&#xA;&lt;li&gt;Raw Data Processing&lt;/li&gt;&#xA;&lt;li&gt;Dataset Analysis&lt;/li&gt;&#xA;&lt;li&gt;Database Management&lt;/li&gt;&#xA;&lt;li&gt;Data Migration&lt;/li&gt;&#xA;&lt;li&gt;Performance Optimization&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;experience&#34; class=&#34;relative group&#34;&gt;&lt;strong&gt;Experience&lt;/strong&gt; &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#experience&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;Northwestern University, Feinberg School of Medicine,&#xA;Chicago, IL&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

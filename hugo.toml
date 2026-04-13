@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Samuel Kearns'
+theme = 'congo'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
